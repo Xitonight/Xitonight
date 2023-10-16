@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Xito here!
 # 💫 About Me:
-🔭 I’m currently working on a Telegram multi-functional bot<br>👯 I’m looking to collaborate on any mid-level Python project to improve my skills <br>🤝 I’m looking for help with my Telegram bot<br>🌱 Currently learning Python and MySQL
+🔭 I’m currently working on a Telegram multi-functional bot<br>👯 I’m looking to collaborate on any mid-level Python project to improve my skills <br>🤝 I’m looking for help with my Telegram bot<br>🌱 Currently learning Python and MySQL (definitely focusing on python first)
 
 
 # 💻 Tech Stack:
