@@ -1,5 +1,7 @@
 # About Me:
-- Currently working on a Telegram multi-functional bot<br>- I’m looking to collaborate on any mid-level Python project to improve my skills and i'd appreciate any help with my project as well<br>- Learning Python and Databases (mainly using MongoDB)
+- Currently working on a Telegram multi-functional bot<br>
+- I’m looking to collaborate on any mid-level Python project to improve my skills and i'd appreciate any help with my project as well<br>
+- Learning Python and Databases (mainly using MongoDB)
 
 
 # Tech Stack:
