@@ -1,23 +1,54 @@
-# About Me:
-- Currently working on a Telegram multi-functional bot<br>
-- I’m looking to collaborate on any mid-level Python project to improve my skills and i'd appreciate any help with my project as well<br>
-- Learning Python and Databases (mainly using MongoDB)
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=50&pause=400&color=A56CF7&center=true&vCenter=true&random=false&width=480&height=80&lines=Hi+there!;Xito+here!" alt="Hi there! Image didn't load properly :(">
+</h1>
 
+<div align="center">
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Xito137&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Xito137&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Xito137&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+❕ Currently working on a **Telegram** multi-functional **bot**<br>
 
-![](https://github-profile-trophy.vercel.app/?username=Xito137&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+🤝 I’d be happy to **collaborate** on any mid-level **Python project** to improve my skills and i'd appreciate any help with my project as well<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Xito137&icon=5&color=0)](https://visitcount.itsvg.in)
+🌱 Learning Python and Databases (mainly using MongoDB)
 
-  ## If you like my projects and would like to help:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xito1317) 
+</div>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<div align="center">
+  <a href="mailto:xito137.code@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://t.me/Xito137">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+</div>
+
+<br>
+
+<h2 align="center">Languages / Frameworks / Tools</h2>
+<br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,html,css,bootstrap,bash,nix">
+  </a>
+</div>
+
+<h2 align="center"> Stats </h2> <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
+  <img src="https://streak-stats.demolab.com?user=Xito137&theme=dark&hide_border=true&border_radius=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
+<h2 align="center"> Want to buy me a coffe? </h2>
+
+<div align="center">
+  <a href="https://ko-fi.com/xito137">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+  <a href="https://paypal.me/xito1317">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+</div>
