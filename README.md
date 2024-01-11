@@ -37,9 +37,9 @@
 <h2 align="center"> Stats </h2> <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
-  <img src="https://streak-stats.demolab.com?user=Xito137&theme=dark&hide_border=true&border_radius=10">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&layout=compact">
+  <img width="490" src="https://github-readme-stats.vercel.app/api?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
+  <img width="490" src="https://streak-stats.demolab.com?user=Xito137&theme=dark&hide_border=true&border_radius=10">
+  <img width="490" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 <h2 align="center"> Want to buy me a coffe? </h2>
