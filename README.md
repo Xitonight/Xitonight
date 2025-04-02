@@ -5,8 +5,8 @@
 ----------
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xitonight&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Xitonight's GitHub Stats" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xitonight&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Xitonight's GitHub Stats" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Xitonight&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Xitonight's GitHub Stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xitonight&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Xitonight's GitHub Stats" height="180" />
 </div>
 
 
