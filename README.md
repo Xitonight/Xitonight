@@ -1,6 +1,6 @@
 <p align="left">
     <img src="./assets/man_raising_hand.png" height="150" width="150">
-    <img src="./assets/hi_there.png">
+    <img src="./assets/hi_there.png" height="150">
 </p>
 
 ----------
