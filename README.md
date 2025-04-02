@@ -1,5 +1,5 @@
 <p align="left">
-    <img src="./assets/hi_there.png" height="180">
+    <img src="./assets/hi_there.png">
 </p>
 
 ----------
