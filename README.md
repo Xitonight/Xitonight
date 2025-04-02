@@ -1,54 +1,61 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=50&pause=400&color=A56CF7&center=true&vCenter=true&random=false&width=480&height=80&lines=Hi+there!;Xito+here!" alt="Hi there! Image didn't load properly :(">
-</h1>
+<p align="left">
+    <img src="./assets/hi_there.png">
+</p>
 
-<div align="center">
+----------
 
-❕ Currently working on a **Telegram** multi-functional **bot**<br>
+<img src="https://github-readme-stats.vercel.app/api?username=Xitonight&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Xitonight's GitHub Stats" />
 
-🤝 I’d be happy to **collaborate** on any mid-level **Python project** to improve my skills and i'd appreciate any help with my project as well<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xitonight&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Xitonight's GitHub Stats" />
 
-🌱 Learning Python and Databases (mainly using MongoDB)
+## About me
 
+Hi! I'm **Alex** but you can call me **Xito**!
+I'm a 19y/o self-taught dev from Italy 🇮🇹
+I started this journey many years ago, but i never had the courage to properly step into coding. I'm still a newbie so I appreciate any kind of suggestion!
+
+## Where to find me
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-  <a href="mailto:xito137.code@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://t.me/Xito137">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
-<br>
+###
 
-<h2 align="center">Languages / Frameworks / Tools</h2>
-<br>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,mongodb,html,css,bootstrap,bash,nix">
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
-<h2 align="center"> Stats </h2> <br>
+###
 
 <div align="center">
-  <img width="475" src="https://github-readme-stats.vercel.app/api?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true">
-  <img width="525" src="https://streak-stats.demolab.com?user=Xito137&theme=dark&hide_border=true&border_radius=10">
-  <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xito137&theme=dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&layout=compact">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-<h2 align="center"> Want to buy me a coffe? </h2>
-
-<div align="center">
-  <a href="https://ko-fi.com/xito137">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
-  <a href="https://paypal.me/xito1317">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
-</div>
+###
