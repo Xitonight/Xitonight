@@ -1,4 +1,5 @@
 <p align="left">
+    <img src="./assets/man_raising_hand.png"
     <img src="./assets/hi_there.png">
 </p>
 
