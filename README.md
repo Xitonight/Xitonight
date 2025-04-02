@@ -9,13 +9,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xitonight&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Xitonight's GitHub Stats" />
 </div>
 
-## About me
+# About me
 
 Hi! I'm **Alex** but you can call me **Xito**!
 I'm a 19y/o self-taught dev from Italy 🇮🇹
 I started this journey many years ago, but i never had the courage to properly step into coding. I'm still a newbie so I appreciate any kind of suggestion!
 
-## Where to find me
+# Where to find me
 
 
 ###
