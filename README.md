@@ -5,18 +5,7 @@
 
 <hr>
 
-<details>
-    <summary>GitHub stats</summary>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Xitonight&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Xitonight's GitHub Stats" height="180"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xitonight&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Xitonight's GitHub Stats" height="180" />
-    </div>
-    <br>
-    <blockquote> Do note that these stats are purely representative of the files in each repo and they mean very little </blockquote>
-    <hr>
-</details>
-
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About me </h1>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About me </h3>
 
 <p align="center">
 Hi! My name is Alex but you can call me Xito! I'm a 19y/o passionate student and self-taught dev from Italy 🇮🇹 <br>
@@ -39,7 +28,9 @@ I would also like to mention that I'm really prone to any kind of collaboration,
     </a>
 </div>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My tech stack </h1>
+<br>
+
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My tech stack </h3>
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
@@ -63,7 +54,10 @@ I would also like to mention that I'm really prone to any kind of collaboration,
     </a>
 </p>
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Do you like my work? Feel free to support me!
+<hr>
 
-<p align="center"><a href="https://ko-fi.com/xitonight"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ko-fi" /></a></p>
+<h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Do you like my work? Feel free to support me! </h3>
+
+<p align="center"><a href="https://ko-fi.com/xitonight"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ko-fi" /></a></p>
+
 
