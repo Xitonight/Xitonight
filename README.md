@@ -22,6 +22,24 @@
 I started this journey many years ago, but I never had the courage to properly step into coding, but now, I finally decided to get serious about it. I'm still a newbie so I appreciate any kind of suggestion! <br>
 I would also like to mention that I'm really prone to any kind of collaboration, so feel free to ask for a hand! <br>
 
+<div align="right">
+    <a href="https://discord.com/users/423893309749067776">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    </a>
+    <a href="https://www.youtube.com/@xitonight">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    </a>
+    <a href="https://t.me/Xitonight">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    </a>
+    <a href="mailto:xitonight@gmail.com">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+    <a href="https://www.reddit.com/user/xitonight/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/reddit/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
+</div>
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My tech stack
 
 <table>
@@ -48,22 +66,3 @@ I would also like to mention that I'm really prone to any kind of collaboration,
         </td>
     </tr>
 </table>
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="30" height="30" /> Where to find me
-
-> I mainly use Telegram, so yeah...
-
-<div align="left">
-    <a href="https://discord.com/users/423893309749067776">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    </a>
-    <a href="https://www.youtube.com/@xitonight">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-    </a>
-    <a href="https://t.me/Xitonight">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-    </a>
-    <a href="mailto:your-email@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    </a>
-</div>
