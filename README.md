@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="./assets/man_raising_hand.png" width="110" height="110">
-    <img src="./assets/hi_there.png" width="356" height="110">
+    <img src="./assets/xitonight.svg" />
 </p>
 
 <hr>
