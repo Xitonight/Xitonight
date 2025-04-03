@@ -2,7 +2,9 @@
     <img src="./assets/xitonight.svg" />
 </p>
 
+<p align="center"><i>I love creating open source software that I need. I'm meticulous, perfectionist and always prone to improving myself and my skills!</i></p>
 <hr>
+<br>
 
 <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About me </h3>
 
@@ -27,7 +29,7 @@ I would also like to mention that I'm really prone to any kind of collaboration,
     </a>
 </div>
 
-<br>
+<br><br>
 
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> My tech stack </h3>
 
@@ -53,10 +55,13 @@ I would also like to mention that I'm really prone to any kind of collaboration,
     </a>
 </p>
 
+<br>
+
 <hr>
 
 <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Do you like my work? Feel free to support me! </h3>
 
 <p align="center"><a href="https://ko-fi.com/xitonight"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ko-fi" /></a></p>
+
 
 
