@@ -9,7 +9,7 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> About me </h3>
 
 <p align="center">
-Hi! My name is Alex but you can call me Xito! I'm a 19y/o passionate student and self-taught dev from Italy 🇮🇹 <br>
+Hi! My name is Alex but you can call me Xito! I'm a 20y/o passionate student and self-taught dev from Italy 🇮🇹 <br>
 I started this journey many years ago, but I never had the courage to properly step into coding, but now, I finally decided to get serious about it. I'm still a newbie so I appreciate any kind of suggestion! <br>
 I would also like to mention that I'm really prone to any kind of collaboration, so feel free to ask for a hand! <br>
 </p>
